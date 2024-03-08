@@ -60,16 +60,15 @@ extra:
       title: Was this page helpful?
       ratings:
         - icon: material/emoticon-happy-outline
-          name: This page was helpful
+          name: Deze pagina bevat nuttige informatie
           data: 1
           note: >-
-            Thanks for your feedback!
+            Bedankt voor je feedback!
         - icon: material/emoticon-sad-outline
-          name: This page could be improved
+          name: Deze pagina kan worden verbetert
           data: 0
           note: >- 
-            Thanks for your feedback! Help us improve this page by
-            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+            Bedankt voor je feedback!
 
 markdown_extensions:
   - pymdownx.emoji:
