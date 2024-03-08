@@ -38,6 +38,11 @@ extra:
   social:
     - icon: material/web
       link: https://lantel.nl
+  consent:
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: true
 
 
 markdown_extensions:
