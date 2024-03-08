@@ -1,5 +1,6 @@
 site_name: LanTel Cloud Wiki
 theme:
+  logo: assets/logo.png
   name: material
   features:
     - navigation.tabs
