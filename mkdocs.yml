@@ -97,6 +97,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       fallback_to_build_date: true
+  - search
 
 repo_url: https://github.com/Peterkrijgsman85/docs-lantelcloud
 edit_uri: edit/main/docs/
