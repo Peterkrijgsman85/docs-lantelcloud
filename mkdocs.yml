@@ -9,6 +9,7 @@ theme:
     edit: material/pencil 
     view: material/eye
   logo: assets/logo.png
+  favicon: assets/favicon.png
   name: material
   features:
     - content.action.edit
