@@ -98,7 +98,6 @@ plugins:
       enable_creation_date: true
       fallback_to_build_date: true
   - search
-  - projects
   - optimize
 
 repo_url: https://github.com/Peterkrijgsman85/docs-lantelcloud
