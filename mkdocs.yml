@@ -39,13 +39,13 @@ theme:
         name: Automatisch
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: lantel 
       toggle:
         icon: material/brightness-5
         name: Lichte modus
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme: lantel
       toggle:
         icon: material/brightness-2
         name: Donkere modus
