@@ -65,7 +65,7 @@ extra:
     provider: google
     property: G-DE0YSHKLFH
     feedback:
-      title: Was this page helpful?
+      title: Heeft deze pagina je geholpen?
       ratings:
         - icon: material/emoticon-happy-outline
           name: Deze pagina bevat nuttige informatie
@@ -99,7 +99,6 @@ copyright: |
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
-      fallback_to_build_date: true
   - search
 
 repo_url: https://github.com/Peterkrijgsman85/docs-lantelcloud
