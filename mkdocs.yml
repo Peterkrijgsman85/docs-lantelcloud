@@ -13,7 +13,6 @@ theme:
   name: material
   features:
     - content.action.edit
-    - navigation.expand
     - navigation.path 
     - navigation.indexes
     - navigation.top
