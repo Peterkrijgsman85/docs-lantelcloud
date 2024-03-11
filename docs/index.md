@@ -18,7 +18,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
     
     Alles over het gebruik van `(draadloze) headsets`
     
-    [:octicons-arrow-right-24: Klik voor meer info](/(Draadloze)%20Headsets/)
+    [:octicons-arrow-right-24: Klik voor meer info](/docs-lantelcloud/(Draadloze)%20Headsets/)
 
 -   :information_source:{ .lg .middle } __Algemene informatie LanTel Cloud diensten__
    
@@ -26,7 +26,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
    
     Focus on your content and generate a responsive and searchable static site
     
-    [:octicons-arrow-right-24: Reference](#)
+    [:octicons-arrow-right-24: Reference](/docs-lantelcloud/Algemene informatie LanTel Cloud diensten/)
 
 -   :material-human-queue:{ .lg .middle } __Aurora TeleQ__
     
@@ -34,7 +34,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
     
     Change the colors, fonts, language, icons, logo and more with a few lines
     
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Customization](/docs-lantelcloud/CloudCTI/)
 
 -   :computer:{ .lg .middle } __CloudCTI__
     
@@ -42,7 +42,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
     
     Material for MkDocs is licensed under MIT and available on [GitHub]
     
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: License](/docs-lantelcloud/CloudCTI/)
 
 -   :fax:{ .lg .middle } __E-Fax__
    
@@ -50,7 +50,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
    
     Material for MkDocs is licensed under MIT and available on [GitHub]
     
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: License](/docs-lantelcloud/E-Fax/)
 
 -   :telephone_receiver:{ .lg .middle } __LanTel Blue - Univerge Blue__
     
@@ -58,7 +58,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
     
     Material for MkDocs is licensed under MIT and available on [GitHub]
     
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: License](/docs-lantelcloud/LanTel Blue - Univerge Blue/)
 
 -   :mobile_phone:{ .lg .middle } __LanTel Mobiel__
    
@@ -66,7 +66,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
    
     Material for MkDocs is licensed under MIT and available on [GitHub]
     
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: License](/docs-lantelcloud/LanTel Mobiel/)
 
 -   :telephone:{ .lg .middle } __LanTel Move - Avaya__
     
@@ -74,7 +74,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
     
     Material for MkDocs is licensed under MIT and available on [GitHub]
     
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: License](/docs-lantelcloud/LanTel Move - Avaya/)
 
 -   :simple-microsoftteams:{ .lg .middle } __LanTel Teams Bellen__
    
@@ -82,7 +82,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
    
     Material for MkDocs is licensed under MIT and available on [GitHub]
     
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: License](/docs-lantelcloud/LanTel Teams Bellen/)
 
 -   :telephone_receiver:{ .lg .middle } __LanTel Wave - Coligo/Enreach Contact__
     
@@ -90,7 +90,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
     
     Material for MkDocs is licensed under MIT and available on [GitHub]
     
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: License](/docs-lantelcloud/LanTel Wave - Coligo/Enreach Contact/)
 </div>
 
 
