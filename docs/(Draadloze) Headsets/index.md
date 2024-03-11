@@ -1,4 +1,4 @@
-# :material-headset: (Draadloze) headsets
+# :fontawesome-solid-headset: :headphones: (Draadloze) headsets
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
