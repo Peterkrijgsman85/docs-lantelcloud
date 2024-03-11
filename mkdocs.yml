@@ -6,7 +6,7 @@ extra_css:
 
 theme:
   icon:
-    repo: fontawesome/brands/git-alt
+    repo: fontawesome/brands/github
     edit: material/pencil 
     view: material/eye
   logo: assets/logo.png
