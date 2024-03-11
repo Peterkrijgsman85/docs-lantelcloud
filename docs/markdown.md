@@ -148,13 +148,22 @@ Hieronder zullen we de verschillende soorten Admonitions demonstreren
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
+
 !!! note
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-        !!! abstract
+
+
+
+
+
+
+
+
+ !!! abstract
 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
         nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -274,7 +283,9 @@ Hieronder zullen we de verschillende soorten Admonitions demonstreren
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-        !!! quote
+
+
+!!! quote
 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
         nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
