@@ -315,4 +315,4 @@ Quote
 
     ![Beschrijving Tux, the Linux mascot](/assets/tux.png)
 
-![Beschrijving Tux, the Linux mascot](./docs-lantelcloud/assets/tux.png)
+![Beschrijving Tux, the Linux mascot](../docs-lantelcloud/assets/tux.png)
