@@ -13,15 +13,11 @@ theme:
   name: material
   features:
     - content.action.edit
-    - navigation.sections
     - navigation.expand
     - navigation.path 
     - navigation.indexes
     - navigation.top
     - navigation.footer
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.tracking
     - toc.follow
     - search.suggest
