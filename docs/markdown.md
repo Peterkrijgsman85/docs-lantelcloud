@@ -66,7 +66,7 @@ Admonitions of Waarschuwingen, ook wel call-outs genoemd, zijn een uitstekende k
 
 Bron: https://squidfunk.github.io/mkdocs-material/reference/admonitions
 
-### Verschillende weergavemogelijkhede van Admonitions
+### Verschillende weergaves
 
 Hieronder zullen we de verschillende soorten Admonitions demonstreren
 
