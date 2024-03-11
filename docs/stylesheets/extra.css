@@ -13,6 +13,7 @@
 
 .md-nav__link--active {
   background-color: #eeeeee;
+  padding: 10px;
   border-radius: 5px;
 }
 
