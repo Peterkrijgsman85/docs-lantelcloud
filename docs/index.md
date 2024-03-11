@@ -36,27 +36,27 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     Material for MkDocs is licensed under MIT and available on [GitHub]
     [:octicons-arrow-right-24: License](#)
 
-    -   :material-scale-balance:{ .lg .middle } __LanTel Blue - Univerge Blue__
+-   :material-scale-balance:{ .lg .middle } __LanTel Blue - Univerge Blue__
     ---
     Material for MkDocs is licensed under MIT and available on [GitHub]
     [:octicons-arrow-right-24: License](#)
 
-    -   :material-scale-balance:{ .lg .middle } __LanTel Mobiel__
+-   :material-scale-balance:{ .lg .middle } __LanTel Mobiel__
     ---
     Material for MkDocs is licensed under MIT and available on [GitHub]
     [:octicons-arrow-right-24: License](#)
 
-    -   :material-scale-balance:{ .lg .middle } __LanTel Move - Avaya__
+-   :material-scale-balance:{ .lg .middle } __LanTel Move - Avaya__
     ---
     Material for MkDocs is licensed under MIT and available on [GitHub]
     [:octicons-arrow-right-24: License](#)
 
-    -   :material-scale-balance:{ .lg .middle } __LanTel Teams Bellen__
+-   :material-scale-balance:{ .lg .middle } __LanTel Teams Bellen__
     ---
     Material for MkDocs is licensed under MIT and available on [GitHub]
     [:octicons-arrow-right-24: License](#)
 
-    -   :material-scale-balance:{ .lg .middle } __LanTel Wave - Coligo/Enreach Contact__
+-   :material-scale-balance:{ .lg .middle } __LanTel Wave - Coligo/Enreach Contact__
     ---
     Material for MkDocs is licensed under MIT and available on [GitHub]
     [:octicons-arrow-right-24: License](#)
