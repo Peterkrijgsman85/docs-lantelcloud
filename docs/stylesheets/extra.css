@@ -13,5 +13,8 @@
 
 .md-nav__link--active {
   background-color: #eeeeee;
+}
+
+.md-nav__list {
   padding: 5px;
 }
