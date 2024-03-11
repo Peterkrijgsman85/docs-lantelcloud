@@ -16,7 +16,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     Alles over het gebruik van `(draadloze) headsets`
     
-    [:octicons-arrow-right-24: Klik voor meer info](#)
+    [:octicons-arrow-right-24: Klik voor meer info](/(Draadloze)%20Headsets/)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __Algemene informatie LanTel Cloud diensten__
    
