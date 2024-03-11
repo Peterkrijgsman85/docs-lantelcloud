@@ -3,16 +3,16 @@
   --md-primary-fg-color--light: #023e84;
   --md-primary-fg-color--dark:  #023e84;
   --md-accent-fg-color:         #023e84;
-  --md-nav__link--active-color: #eeeeee;
-  --md-nav__link--active-border-color: #dddddd;
+  --md-nav__link--active-color: #efefef;
+  --md-nav__link--active-border-color: #eeeeee;
 }
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color:        #023e84;
   --md-primary-fg-color--light: #023e84;
   --md-primary-fg-color--dark:  #023e84;
   --md-accent-fg-color:         #023e84;
-  --md-nav__link--active-color: #444444;
-  --md-nav__link--active-border-color: #333333;
+  --md-nav__link--active-color: #222222;
+  --md-nav__link--active-border-color: #111111;
 }
 
 .md-nav__link--active {
