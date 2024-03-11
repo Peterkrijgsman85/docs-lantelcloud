@@ -144,12 +144,12 @@ Hieronder zullen we de verschillende soorten Admonitions demonstreren
 ## Verschillende types Admonitions
 
 Note
+
     !!! note
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
-
 
 !!! note
 
@@ -158,6 +158,7 @@ Note
     massa, nec semper lorem quam in massa.
 
 Abstract
+
     !!! abstract
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -171,6 +172,7 @@ Abstract
     massa, nec semper lorem quam in massa.
 
 Info
+
     !!! info
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -184,6 +186,7 @@ Info
     massa, nec semper lorem quam in massa.
 
 Tip
+
     !!! tip
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -197,6 +200,7 @@ Tip
     massa, nec semper lorem quam in massa.
 
 Succes
+
     !!! succes
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -210,6 +214,7 @@ Succes
     massa, nec semper lorem quam in massa.
 
 Question
+
     !!! question
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -223,6 +228,7 @@ Question
     massa, nec semper lorem quam in massa.
 
 Warning
+
     !!! warning
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -236,6 +242,7 @@ Warning
     massa, nec semper lorem quam in massa.
 
 Failure
+
     !!! failure
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -249,6 +256,7 @@ Failure
     massa, nec semper lorem quam in massa.
 
 Danger
+
     !!! danger
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -262,6 +270,7 @@ Danger
     massa, nec semper lorem quam in massa.
 
 Bug
+
     !!! bug
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -270,11 +279,12 @@ Bug
 
 !!! bug
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
 
 Example
+
     !!! example
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -287,13 +297,13 @@ Example
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-
 Quote
+
     !!! quote
 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-        nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-        massa, nec semper lorem quam in massa.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
 !!! quote
 
