@@ -18,6 +18,20 @@ Markdown heeft de ondersteuning voor 6 kopteksten
 ##### Koptekst 5
 ###### Koptekst 6
 
+## Tekst opmaak
+
+    Dit is een **vetgedrukt** woord in een zin.
+
+Dit is een **vetgedrukt** woord in een zin.
+
+    Dit is een *schuingedrukt* woord in een zin.
+
+Dit is een *schuingedrukt* woord in een zin.
+
+    Dit is een ***schuingedrukt en vetgedrukt*** woord in een zin.
+
+Dit is een ***schuingedrukt en vetgedrukt*** woord in een zin.
+
 ## Admonitions
 
 Admonitions of Waarschuwingen, ook wel call-outs genoemd, zijn een uitstekende keuze om extra-inhoud op te nemen zonder de documentstroom aanzienlijk te onderbreken.
