@@ -1,4 +1,4 @@
-# Welkom bij LanTel Cloud Selfservice
+# :wave_tone2: Welkom bij LanTel Cloud Selfservice
 
 Heb je een vraag over jouw telefonieomgeving? Alle handige informatie en handleidingen voor onze LanTel Cloud diensten vind je hier.
 
