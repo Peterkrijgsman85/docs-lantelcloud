@@ -290,4 +290,4 @@ Hieronder zullen we de verschillende soorten Admonitions demonstreren
 
     ![Beschrijving Tux, the Linux mascot](/assets/tux.png)
 
-![Beschrijving Tux, the Linux mascot](/assets/tux.png)
+![Beschrijving Tux, the Linux mascot](docs-lantelcloud/assets/tux.png)
