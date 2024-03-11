@@ -3,6 +3,7 @@
 ## Kopteksten
 
 Markdown heeft de ondersteuning voor 5 kopteksten
+
     # Koptekst 1 / Titel
     ## Koptekst 2
     ### Koptekst 3
@@ -270,15 +271,18 @@ Danger
 
 Bug
 
+    !!! bug
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
 !!! bug
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
 nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
 massa, nec semper lorem quam in massa.
 
-!!! bug
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa.
 
 Example
 
@@ -313,3 +317,15 @@ Quote
     ![Beschrijving Tux, the Linux mascot](/assets/tux.png)
 
 ![Beschrijving Tux, the Linux mascot](../assets/tux.png)
+
+
+
+## Annotations
+
+## Buttons
+
+## Tables
+
+## Emoji
+
+## Tooltips
