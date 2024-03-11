@@ -16,10 +16,10 @@
 }
 
 .md-nav__link--active {
-  background-color: var(md-nav__link--active-color)
+  background-color: var(--md-nav__link--active-color)
   padding: 10px;
   border-radius: 5px;
-  border: 2px solid var(md-nav__link--active-border-color)
+  border: 2px solid var(--md-nav__link--active-border-color)
 }
 
 
