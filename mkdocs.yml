@@ -18,7 +18,9 @@ theme:
     - navigation.top
     - navigation.footer
     - navigation.tracking
-    - navigation.tabs
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - toc.follow
     - search.suggest
     - search.highligt
