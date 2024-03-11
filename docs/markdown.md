@@ -1,7 +1,27 @@
 # De mogelijkheden van Markdown
 
+## Kopteksten
+
+Markdown heeft de ondersteuning voor 6 kopteksten
+
+    # Kopteks 1
+    ## Koptekst 2
+    ### Koptekst 3
+    #### Koptekst 4
+    ##### Koptekst 5
+    ###### Koptekst 6
+
+# Kopteks 1
+## Koptekst 2
+### Koptekst 3
+#### Koptekst 4
+##### Koptekst 5
+###### Koptekst 6
 
 ## Admonitions
+
+Admonitions of Waarschuwingen, ook wel call-outs genoemd, zijn een uitstekende keuze om extra-inhoud op te nemen zonder de documentstroom aanzienlijk te onderbreken.
+bron: https://squidfunk.github.io/mkdocs-material/reference/admonitions
 
 ## Verschillende weergavemogelijkhede van Admonitions
 
