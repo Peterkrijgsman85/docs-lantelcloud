@@ -10,7 +10,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __(Draadloze) headsets__
+-   :material-headset:{ .lg .middle } __(Draadloze) headsets__
     
     ---
     
@@ -18,7 +18,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     [:octicons-arrow-right-24: Klik voor meer info](/(Draadloze)%20Headsets/)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Algemene informatie LanTel Cloud diensten__
+-   :information_source:{ .lg .middle } __Algemene informatie LanTel Cloud diensten__
    
     ---
    
@@ -26,7 +26,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     [:octicons-arrow-right-24: Reference](#)
 
--   :material-format-font:{ .lg .middle } __Aurora TeleQ__
+-   :material-human-queue:{ .lg .middle } __Aurora TeleQ__
     
     ---
     
@@ -34,7 +34,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     [:octicons-arrow-right-24: Customization](#)
 
--   :material-scale-balance:{ .lg .middle } __CloudCTI__
+-   :computer:{ .lg .middle } __CloudCTI__
     
     ---
     
@@ -42,7 +42,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     [:octicons-arrow-right-24: License](#)
 
--   :material-scale-balance:{ .lg .middle } __E-Fax__
+-   :fax:{ .lg .middle } __E-Fax__
    
     ---
    
@@ -50,7 +50,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     [:octicons-arrow-right-24: License](#)
 
--   :material-scale-balance:{ .lg .middle } __LanTel Blue - Univerge Blue__
+-   :telephone_receiver:{ .lg .middle } __LanTel Blue - Univerge Blue__
     
     ---
     
@@ -58,7 +58,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     [:octicons-arrow-right-24: License](#)
 
--   :material-scale-balance:{ .lg .middle } __LanTel Mobiel__
+-   :mobile_phone:{ .lg .middle } __LanTel Mobiel__
    
     ---
    
@@ -66,7 +66,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     [:octicons-arrow-right-24: License](#)
 
--   :material-scale-balance:{ .lg .middle } __LanTel Move - Avaya__
+-   :telephone:{ .lg .middle } __LanTel Move - Avaya__
     
     ---
     
@@ -74,7 +74,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     [:octicons-arrow-right-24: License](#)
 
--   :material-scale-balance:{ .lg .middle } __LanTel Teams Bellen__
+-   :simple-microsoftteams:{ .lg .middle } __LanTel Teams Bellen__
    
     ---
    
@@ -82,7 +82,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     [:octicons-arrow-right-24: License](#)
 
--   :material-scale-balance:{ .lg .middle } __LanTel Wave - Coligo/Enreach Contact__
+-   :telephone_receiver:{ .lg .middle } __LanTel Wave - Coligo/Enreach Contact__
     
     ---
     
