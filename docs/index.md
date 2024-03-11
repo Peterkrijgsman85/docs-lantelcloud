@@ -100,6 +100,6 @@ Hieronder vind je alle categoriën van onze Selfservice.
 
 
 Niet gevonden wat je zoekt? Neem contact op met onze afdeling 'klantenservice'.
-Dit kan eenvoudig per mail: [servicedesk@lantel.nl](mailto:servicedesk@lantel.nl), per telefoon: [078 630 55 55](tel:078 630 55 55) of stuur ons eenvoudig een whatsapp berichtje: [078 630 55 55](https://wa.me/0786305555).
+Dit kan eenvoudig per mail: [servicedesk@lantel.nl](mailto:servicedesk@lantel.nl), per telefoon: [078 630 55 55](tel:078 630 55 55) of stuur ons eenvoudig een whatsapp berichtje: [078 630 55 55](https://wa.me/+31786305555).
 
 
