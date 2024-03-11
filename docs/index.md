@@ -14,7 +14,7 @@ In het menu aan de linkerkant vind je alle documentatie per onderwerp.
     
     ---
     
-    Alles over het gebruik van [`(draadloze) headsets`]
+    Alles over het gebruik van `(draadloze) headsets`
     
     [:octicons-arrow-right-24: Klik voor meer info](#)
 
