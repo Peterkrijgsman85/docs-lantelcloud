@@ -314,7 +314,7 @@ Quote
 
 ## Afbeeldingen
 
-    ![Beschrijving Tux, the Linux mascot](/assets/tux.png)
+    ![Beschrijving Tux, the Linux mascot](/assets/tux.png){ title="Tux" }
 
 ![Beschrijving Tux, the Linux mascot](../assets/tux.png){ title="Tux" }
 
@@ -330,8 +330,3 @@ Quote
 
 
 ## Emoji
-
-
-## Tooltips
-
-Tekst met tooltip{ title="Dit is een tooltip" }
