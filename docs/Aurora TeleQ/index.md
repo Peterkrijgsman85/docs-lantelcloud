@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# :material-human-queue: Aurora TeleQ
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
