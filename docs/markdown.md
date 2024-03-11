@@ -316,16 +316,22 @@ Quote
 
     ![Beschrijving Tux, the Linux mascot](/assets/tux.png)
 
-![Beschrijving Tux, the Linux mascot](../assets/tux.png)
+![Beschrijving Tux, the Linux mascot](../assets/tux.png){ title="Tux" }
 
 
 
 ## Annotations
 
+
 ## Buttons
+
 
 ## Tables
 
+
 ## Emoji
 
+
 ## Tooltips
+
+Tekst met tooltip{ title="Dit is een tooltip" }
