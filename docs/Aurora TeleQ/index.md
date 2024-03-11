@@ -1,4 +1,4 @@
-# :material-human-queue: Aurora TeleQ
+# :medical_symbol: Aurora TeleQ
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

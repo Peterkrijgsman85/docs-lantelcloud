@@ -13,7 +13,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
 
 <div class="grid cards" markdown>
 
--   :material-headset:{ .lg .middle } __(Draadloze) headsets__
+-   :headphones:{ .lg .middle } __(Draadloze) headsets__
     
     ---
     
@@ -25,15 +25,15 @@ Hieronder vind je alle categoriën van onze Selfservice.
    
     ---
    
-    Focus on your content and generate a responsive and searchable static site
+    Algemene en technishce informatie over onze LanTel Cloud diensten.
     
     [:octicons-arrow-right-24: Klik voor meer info](/docs-lantelcloud/Algemene informatie LanTel Cloud diensten/)
 
--   :material-human-queue:{ .lg .middle } __Aurora TeleQ__
+-   :medical_symbol:{ .lg .middle } __Aurora TeleQ__
     
     ---
     
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    TeleQ terugbel applicatie voor de eerstelijns zorg.
     
     [:octicons-arrow-right-24: Klik voor meer info](/docs-lantelcloud/Aurora TeleQ/)
 
@@ -41,7 +41,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
     
     ---
     
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    CRM/HIS koppeling met je telefonieomgeving. Zie direct wie er belt!
     
     [:octicons-arrow-right-24: Klik voor meer info](/docs-lantelcloud/CloudCTI/)
 
