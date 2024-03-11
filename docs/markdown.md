@@ -3,18 +3,19 @@
 ## Kopteksten
 
 Markdown heeft de ondersteuning voor 5 kopteksten
+    # Koptekst 1 / Titel
+    ## Koptekst 2
+    ### Koptekst 3
+    #### Koptekst 4
+    ##### Koptekst 5
+    ###### Koptekst 6
 
-    ## Koptekst 1
-    ### Koptekst 2
-    #### Koptekst 3
-    ##### Koptekst 4
-    ###### Koptekst 5
-
-## Koptekst 1
-### Koptekst 2
-#### Koptekst 3
-##### Koptekst 4
-###### Koptekst 5
+Op een pagina gebruik je eenmaal Koptekst 1/titel bovenaan de pagina. In de tekst kan je vervolgens gebruikmaken van koptekst 2 t/m koptekst 6.
+## Koptekst 2
+### Koptekst 3
+#### Koptekst 4
+##### Koptekst 5
+###### Koptekst 6
 
 
 ## Tekst opmaak
