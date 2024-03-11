@@ -38,16 +38,22 @@ Dit is een ***schuingedrukt en vetgedrukt*** woord in een zin.
 
     > Dit is een blockquote.
 
-Dit is een blockquote.
+> Dit is een blockquote.
 
 
 ## Code block
 
-Een code block maak je door een 'tab' voor en zin te zetten
+Een code block maak je door een 'tab' voor een zin te zetten
 
     'tab' Dit is een code block
 
 
+
+## Horizontale lijn
+
+Om een horizontale lijn te maken gebruik je op een lege regel --- (3x -teken)
+
+---
 
 
 
