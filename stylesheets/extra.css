@@ -12,9 +12,10 @@
 }
 
 .md-nav__link--active {
-  background-color: #eeeeee;
+  background-color: #00b4ec;
   padding: 10px;
   border-radius: 5px;
+  border: 2px solid #023e84;
 }
 
 
