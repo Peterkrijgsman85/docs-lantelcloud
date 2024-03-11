@@ -4,19 +4,20 @@
 
 Markdown heeft de ondersteuning voor 6 kopteksten
 
-    # Kopteks 1
+    # Koptekst 1
     ## Koptekst 2
     ### Koptekst 3
     #### Koptekst 4
     ##### Koptekst 5
     ###### Koptekst 6
 
-# Kopteks 1
+# Koptekst 1
 ## Koptekst 2
 ### Koptekst 3
 #### Koptekst 4
 ##### Koptekst 5
 ###### Koptekst 6
+
 
 ## Tekst opmaak
 
@@ -32,12 +33,34 @@ Dit is een *schuingedrukt* woord in een zin.
 
 Dit is een ***schuingedrukt en vetgedrukt*** woord in een zin.
 
+
+## Blockquotes
+
+    > Dit is een blockquote.
+
+Dit is een blockquote.
+
+
+## Code block
+
+Een code block maak je door een 'tab' voor en zin te zetten
+
+    'tab' Dit is een code block
+
+
+
+
+
+
+
+
 ## Admonitions
 
 Admonitions of Waarschuwingen, ook wel call-outs genoemd, zijn een uitstekende keuze om extra-inhoud op te nemen zonder de documentstroom aanzienlijk te onderbreken.
-bron: https://squidfunk.github.io/mkdocs-material/reference/admonitions
 
-## Verschillende weergavemogelijkhede van Admonitions
+Bron: https://squidfunk.github.io/mkdocs-material/reference/admonitions
+
+### Verschillende weergavemogelijkhede van Admonitions
 
 Hieronder zullen we de verschillende soorten Admonitions demonstreren
 
@@ -51,6 +74,12 @@ Hieronder zullen we de verschillende soorten Admonitions demonstreren
 
 ### Admonition met titel
 
+    !!! note "Phasellus posuere in sem ut cursus"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
 !!! note "Phasellus posuere in sem ut cursus"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -58,6 +87,12 @@ Hieronder zullen we de verschillende soorten Admonitions demonstreren
     massa, nec semper lorem quam in massa.
 
 ### Admonition zonder titel
+
+    !!! note ""
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
 !!! note ""
 
@@ -67,6 +102,12 @@ Hieronder zullen we de verschillende soorten Admonitions demonstreren
 
 ### Admonition dichtgeklapt
 
+    ??? note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
 ??? note
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -75,6 +116,12 @@ Hieronder zullen we de verschillende soorten Admonitions demonstreren
 
 ### Admonition opengeklapt
 
+    ???+ note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+    
 ???+ note
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
