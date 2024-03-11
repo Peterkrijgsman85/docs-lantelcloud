@@ -2,21 +2,19 @@
 
 ## Kopteksten
 
-Markdown heeft de ondersteuning voor 6 kopteksten
+Markdown heeft de ondersteuning voor 5 kopteksten
 
-    # Koptekst 1
-    ## Koptekst 2
-    ### Koptekst 3
-    #### Koptekst 4
-    ##### Koptekst 5
-    ###### Koptekst 6
+    ## Koptekst 1
+    ### Koptekst 2
+    #### Koptekst 3
+    ##### Koptekst 4
+    ###### Koptekst 5
 
-# Koptekst 1
-## Koptekst 2
-### Koptekst 3
-#### Koptekst 4
-##### Koptekst 5
-###### Koptekst 6
+## Koptekst 1
+### Koptekst 2
+#### Koptekst 3
+##### Koptekst 4
+###### Koptekst 5
 
 
 ## Tekst opmaak
