@@ -1,7 +1,9 @@
 # :wave_tone2: Welkom!
 
-Heb je een vraag over jouw telefonieomgeving? Alle handige informatie en handleidingen voor onze LanTel Cloud diensten vind je hier.
-![LanTel Service](./assets/Tegel-LanTel-Service-440x440.png){ align=right }
+![LanTel Service](./assets/Tegel-LanTel-Service-440x440.png){ align=right }{ width="300" }
+Welkom op onze selfservice portal!
+Heb je een vraag over het gebruikt van jouw telefonieomgeving? Alle handige informatie en handleidingen voor jou als gebruiker van onze LanTel Cloud diensten vind je hier. Ook dat is de service van LanTel!
+
 
 ## Categorien
 
