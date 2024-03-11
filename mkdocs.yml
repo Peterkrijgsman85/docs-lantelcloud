@@ -18,9 +18,6 @@ theme:
     - navigation.top
     - navigation.footer
     - navigation.tracking
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.tabs
     - toc.follow
     - search.suggest
