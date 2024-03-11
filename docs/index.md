@@ -1,6 +1,7 @@
 # :wave_tone2: Welkom!
 
 Heb je een vraag over jouw telefonieomgeving? Alle handige informatie en handleidingen voor onze LanTel Cloud diensten vind je hier.
+![LanTel Service](./assets/Tegel-LanTel-Service-440x440.png){ align=right }
 
 ## Categorien
 
