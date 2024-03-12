@@ -139,16 +139,7 @@ repo_name: docs-lantelcloud
 nav:
   - Home: https://lantel.nl
   - Wiki:
-    - Welkom:
-      - Welkom: index.md 
-    - Algemeen:
-      - Algemeen: algemeen/index.md
-      - Algemene informatie LanTel Cloud diensten: Algemene informatie LanTel Cloud diensten/index.md
-      - Welkom: index.md 
-      - Welkom: index.md
-    - Diensten:
-      - Welkom: index.md 
-    - Randapparatuur:
-      - Welkom: index.md
+      - Welkom:
+        - Welkom: index.md 
   - Statuspage: https://status.lantelcloud.nl
   - Mijn LanTel: https://portal.lantel.nl
