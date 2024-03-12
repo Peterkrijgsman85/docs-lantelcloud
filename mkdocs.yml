@@ -141,5 +141,8 @@ nav:
   - Wiki:
     - Wiki:
       - Wiki: index.md 
+    - Algemeen: 
+    - Diensten:
+    - Randapparatuur
   - Statuspage: https://status.lantelcloud.nl
   - Mijn LanTel: https://portal.lantel.nl
