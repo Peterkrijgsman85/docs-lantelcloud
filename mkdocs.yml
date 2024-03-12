@@ -24,6 +24,7 @@ theme:
     - content.action.edit
     - navigation.path 
     - navigation.indexes
+    - navigation.sections
     - navigation.top
     - navigation.footer
     - navigation.tracking
