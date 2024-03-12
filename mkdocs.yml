@@ -1,8 +1,16 @@
 site_name: Selfservice
 site_url: https://peterkrijgsman85.github.io/docs-lantelcloud/
 
+
+
+
+
 extra_css:
   - stylesheets/extra.css
+
+
+
+
 
 theme:
   icon:
@@ -50,6 +58,9 @@ theme:
         name: Donkere modus
 
 
+
+
+
 extra:
   social:
     - icon: material/web
@@ -77,6 +88,10 @@ extra:
           note: >- 
             Bedankt voor je feedback!
 
+
+
+
+
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
@@ -93,8 +108,16 @@ markdown_extensions:
   - toc:
       permalink: true
 
+
+
+
+
 copyright: |
   &copy; 2024 <a href="https://lantel.nl" target="_blank" rel="noopener">LanTel<a>
+
+
+
+
 
 plugins:
   - git-revision-date-localized:
@@ -102,6 +125,19 @@ plugins:
   - search
 
 
+
+
 repo_url: https://github.com/Peterkrijgsman85/docs-lantelcloud
 edit_uri: edit/main/docs/
 repo_name: docs-lantelcloud
+
+
+
+
+nav:
+  - Home: https://lantel.nl
+  - Wiki: 
+    - `Welkom`:
+      - `Welkom`: index.md
+  - Statuspage: https://status.lantelcloud.nl
+  - Mijn LanTel: https://portal.lantel.nl
