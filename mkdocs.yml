@@ -142,8 +142,8 @@ nav:
     - Welkom:
       - Welkom: index.md 
     - Algemeen:
-      - Algemeen: Algemeen/Algemene informatie LanTel Cloud diensten/index.md 
-      - Welkom: index.md
+      - Algemeen:
+      - Algemene informatie LanTel Cloud diensten: Algemene informatie LanTel Cloud diensten/index.md
       - Welkom: index.md 
       - Welkom: index.md
     - Diensten:
