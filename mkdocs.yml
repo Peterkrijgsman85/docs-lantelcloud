@@ -140,6 +140,8 @@ nav:
   - Home: https://lantel.nl
   - Wiki:
       - Welkom:
-        - Welkom: index.md 
+        - Welkom: index.md
+      - Algemeen: 
+        - Algemeen: /algemeen/index.md
   - Statuspage: https://status.lantelcloud.nl
   - Mijn LanTel: https://portal.lantel.nl
