@@ -27,7 +27,7 @@ Hieronder vind je alle categoriën van onze Selfservice.
    
     Algemene en technishce informatie over onze LanTel Cloud diensten.
     
-    [:octicons-arrow-right-24: Klik voor meer info](/docs-lantelcloud/Algemene informatie LanTel Cloud diensten/)
+    [:octicons-arrow-right-24: Klik voor meer info](/docs-lantelcloud/Algemeen/Algemene informatie LanTel Cloud diensten/)
 
 -   :medical_symbol:{ .lg .middle } __Aurora TeleQ__
     

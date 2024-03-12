@@ -142,6 +142,6 @@ nav:
       - Welkom:
         - Welkom: index.md
       - Algemeen: 
-        - Algemene informatie LanTel Cloud Diensten: /algemeen/Algemene informatie LanTel Cloud Diensten/index.md
+        - Algemene informatie LanTel Cloud Diensten: /Algemeen/Algemene informatie LanTel Cloud Diensten/index.md
   - Statuspage: https://status.lantelcloud.nl
   - Mijn LanTel: https://portal.lantel.nl
