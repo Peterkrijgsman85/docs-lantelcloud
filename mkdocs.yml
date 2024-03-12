@@ -137,7 +137,5 @@ repo_name: docs-lantelcloud
 nav:
   - Home: https://lantel.nl
   - Wiki: 
-    - `Welkom`:
-      - `Welkom`: index.md
   - Statuspage: https://status.lantelcloud.nl
   - Mijn LanTel: https://portal.lantel.nl
