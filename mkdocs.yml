@@ -139,10 +139,13 @@ repo_name: docs-lantelcloud
 nav:
   - Home: https://lantel.nl
   - Wiki:
-    - Wiki:
+    - Welkom:
       - Welkom: index.md 
     - Algemeen:
-      - Welkom: index.md  
+      - Welkom: index.md 
+      - Welkom: index.md
+      - Welkom: index.md 
+      - Welkom: index.md
     - Diensten:
       - Welkom: index.md 
     - Randapparatuur:
