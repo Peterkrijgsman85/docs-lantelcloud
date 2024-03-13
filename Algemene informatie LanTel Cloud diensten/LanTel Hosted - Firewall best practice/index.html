@@ -1823,54 +1823,58 @@ Schakel Enable Configure SIP Inactivity Timeout uit.
 
 <span lang="EN-US" style="font-family: 'Century Gothic',sans-serif; mso-ansi-language: EN-US;">FortiOS starting at 6.2.2 : Run following commands from Fortigate firewall CLI</span>
 
-
-<pre><code>config system settings
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span>
+<span class="normal">5</span></pre></div></td><td class="code"><div><pre><span></span><code>config system settings
 set sip-expectation disable
 set sip-nat-trace disable
 set default-voip-alg-mode kernel-helper-based
 end
-</code></pre>
-
+</code></pre></div></td></tr></table></div>
 
 <span lang="EN-US" style="font-family: 'Century Gothic',sans-serif; mso-ansi-language: EN-US;">FortiOS below 6.2.2 : Run following commands from Fortigate firewall CLI</span>
 
-
-<pre><code>config system settings
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span>
+<span class="normal">5</span></pre></div></td><td class="code"><div><pre><span></span><code>config system settings
 set sip-helper disable
 set sip-nat-trace disable
 set default-voip-alg-mode kernel-helper-based
 end
-</code></pre>
-
+</code></pre></div></td></tr></table></div>
 
 <span lang="EN-US" style="font-family: 'Century Gothic',sans-serif; mso-ansi-language: EN-US;">If you see an error while entering “set default-voip-alg-mode kernel-helper-based” , just ignore it.</span>
 
 <span lang="EN-US" style="font-family: 'Century Gothic',sans-serif; mso-ansi-language: EN-US;">Next we need to locate SIP entry in session helper list and delete it</span>
 
-
-<pre><code>config system session-helper
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span></pre></div></td><td class="code"><div><pre><span></span><code>config system session-helper
 show
-</code></pre>
-
+</code></pre></div></td></tr></table></div>
 
 <span lang="EN-US" style="font-family: 'Century Gothic',sans-serif; mso-ansi-language: EN-US;">Scroll down until you see an entry for SIP, in our example it was number 13 but this may be different depending on model and software release. Now execute<span style="mso-spacerun: yes;"> </span>following commands:</span>
 
-
-<pre><code>delete 13
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span></pre></div></td><td class="code"><div><pre><span></span><code>delete 13
 end
-</code></pre>
-
+</code></pre></div></td></tr></table></div>
 
 <span lang="EN-US" style="font-family: 'Century Gothic',sans-serif; mso-ansi-language: EN-US;">The last set of commands disables processing of RTP protocol on the firewall</span>
 
-
-<pre><code>config voip profile
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span>
+<span class="normal">5</span></pre></div></td><td class="code"><div><pre><span></span><code>config voip profile
 edit default
 config sip
 set rtp disable
 end
-</code></pre>
-
+</code></pre></div></td></tr></table></div>
 
 <span lang="EN-US" style="font-family: 'Century Gothic',sans-serif; mso-ansi-language: EN-US;">Normally Fortigate firewalls do not require a reboot when you change configuration, but , it seems, in this case we need reboot it to activate session helper changes.</span>
 
