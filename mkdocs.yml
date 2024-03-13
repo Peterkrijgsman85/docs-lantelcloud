@@ -98,6 +98,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       linenums: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.mark
   - footnotes
   - attr_list
