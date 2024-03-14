@@ -21,7 +21,6 @@ theme:
   favicon: assets/favicon.png
   name: material
   features:
-    - content.action.edit
     - navigation.path 
     - navigation.indexes
     - navigation.top
