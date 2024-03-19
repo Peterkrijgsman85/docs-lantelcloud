@@ -13,6 +13,8 @@ extra_css:
 
 
 theme:
+  font:
+    text: Montserrat
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil 
