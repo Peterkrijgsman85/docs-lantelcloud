@@ -40,22 +40,17 @@ theme:
     - header.autohide
   language: nl
   palette:
-      # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: sunny
-        name: Automatisch
-    # Palette toggle for light mode
+     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Lichte modus
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Donkere modus
 
 
