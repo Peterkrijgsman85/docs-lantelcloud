@@ -85,7 +85,7 @@ extra:
             Bedankt voor je feedback!
         - icon: material/emoticon-sad-outline
           name: Deze pagina kan worden verbetert
-          data: 0
+          data: -1
           note: >- 
             Bedankt voor je feedback!
 
