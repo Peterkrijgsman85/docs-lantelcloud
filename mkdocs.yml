@@ -69,10 +69,10 @@ theme:
 
 # Additional configuration
 extra:
-  alternate:
-    - name: English
-      link: docs-lantelcloud/en/ 
-      lang: en
+  # alternate:
+    # - name: English
+      # link: docs-lantelcloud/en/ 
+      # lang: en
   social:
     - icon: material/web
       link: https://lantel.nl
