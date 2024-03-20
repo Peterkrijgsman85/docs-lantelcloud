@@ -72,8 +72,10 @@ extra:
   social:
     - icon: material/web
       link: https://lantel.nl
+      name: LanTel Website
     - icon: material/list-status
       link: https://status.lantelcloud.nl
+      name: LanTel Cloud Statuspagina
   consent:
     title: LanTel maakt gebruik van cookies.
     description: >-
