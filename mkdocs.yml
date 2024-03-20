@@ -1,17 +1,24 @@
+# Project information
 site_name: LanTel Cloud Wiki
 site_url: https://peterkrijgsman85.github.io/docs-lantelcloud/
+site_author: Peter Krijgsman
+site_description: >-
+  LanTel Cloud Wiki
 
+# Copyright
+copyright: |
+  &copy; 2024 <a href="https://lantel.nl" target="_blank" rel="noopener">LanTel<a>
+  
+# Repository
+repo_url: https://github.com/Peterkrijgsman85/docs-lantelcloud
+edit_uri: edit/main/docs/
+repo_name: docs-lantelcloud
 
-
-
-
+# Additional configuration
 extra_css:
   - stylesheets/extra.css
 
-
-
-
-
+# Configuration
 theme:
   font:
     text: Montserrat
@@ -34,10 +41,15 @@ theme:
     - toc.follow
     - search.suggest
     - search.highligt
+    - search.share
     - content.tabs.link
     - content.code.annotatioin
     - content.code.copy
     - header.autohide
+    # - content.footnote.tooltips
+    # - content.code.select
+    # - navigation.expand
+    # - navigation.tabs.sticky
   language: nl
   palette:
      # Palette toggle for light mode
@@ -108,8 +120,6 @@ markdown_extensions:
 
 
 
-copyright: |
-  &copy; 2024 <a href="https://lantel.nl" target="_blank" rel="noopener">LanTel<a>
 
 
 
@@ -123,9 +133,6 @@ plugins:
 
 
 
-repo_url: https://github.com/Peterkrijgsman85/docs-lantelcloud
-edit_uri: edit/main/docs/
-repo_name: docs-lantelcloud
 
 
 
