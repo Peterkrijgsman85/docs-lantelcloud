@@ -71,7 +71,7 @@ theme:
 extra:
   alternate:
     - name: English
-      link: /en/ 
+      link: docs-lantelcloud/en/ 
       lang: en
   social:
     - icon: material/web
