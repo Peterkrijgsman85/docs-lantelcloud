@@ -66,14 +66,13 @@ theme:
         icon: material/weather-sunny
         name: Donkere modus
 
-
-
-
-
+# Additional configuration
 extra:
   social:
     - icon: material/web
       link: https://lantel.nl
+    - icon: material/web
+      link: https://status.lantelcloud.nl
   consent:
     title: LanTel maakt gebruik van cookies.
     description: >-
@@ -97,10 +96,7 @@ extra:
           note: >- 
             Bedankt voor je feedback!
 
-
-
-
-
+# Markdown Extensions
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
@@ -117,20 +113,14 @@ markdown_extensions:
   - toc:
       permalink: true
 
-
-
-
-
-
-
-
-
-
+# Plugins
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - search
-
+  - git-committers:
+      repository: Peterkrijgsman85/docs-lantelcloud
+      branch: main
 
 
 
