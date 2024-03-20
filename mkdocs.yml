@@ -30,6 +30,7 @@ theme:
   favicon: assets/favicon.png
   name: material
   features:
+    - header.autohide
     - navigation.path 
     - navigation.indexes
     - navigation.top
@@ -38,6 +39,8 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
+    # - navigation.expand
+    # - navigation.tabs.sticky
     - toc.follow
     - search.suggest
     - search.highligt
@@ -46,11 +49,9 @@ theme:
     - content.code.annotatioin
     - content.code.copy
     - content.tooltips
-    - header.autohide
+    - content.action.edit
     # - content.footnote.tooltips
     # - content.code.select
-    # - navigation.expand
-    # - navigation.tabs.sticky
   language: nl
   palette:
      # Palette toggle for light mode
