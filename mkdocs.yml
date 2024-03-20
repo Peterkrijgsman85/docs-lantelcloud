@@ -134,8 +134,9 @@ plugins:
       branch: main
 
 
-
-
+# Pagina's die niet worden weergegeven in navigatiemenu
+not_in_nav: |
+  /markdown.md
 
 
 
