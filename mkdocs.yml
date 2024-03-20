@@ -69,6 +69,10 @@ theme:
 
 # Additional configuration
 extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
   social:
     - icon: material/web
       link: https://lantel.nl
