@@ -12,10 +12,10 @@
   {% if feedback %}
     <form class="md-feedback" name="feedback" hidden>
       <fieldset>
+        <div class="md-feedback__inner">Wij stellen je feedback zeer op prijs. Laat ons weten of we deze pagina kunnen verbeteren!<BR><BR></div>
         <legend class="md-feedback__title">
           {{ feedback.title }}
         </legend>
-        <div class="md-feedback__inner">Wij stellen je feedback zeer op prijs. Laat ons weten of we deze pagina kunnen verbeteren!<BR><BR></div>
         <div class="md-feedback__inner">
           <div class="md-feedback__list">
             {% for rating in feedback.ratings %}
