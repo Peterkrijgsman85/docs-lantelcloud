@@ -24,7 +24,7 @@ theme:
     text: Montserrat
   icon:
     repo: fontawesome/brands/github
-    edit: material/pencil 
+    edit: material/link/edit
     view: material/eye
   logo: assets/logo.png
   favicon: assets/favicon.png
