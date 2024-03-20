@@ -1,4 +1,4 @@
-name: ci 
+name: Build MkDocs on Github Pages 
 on:
   push:
     branches:
