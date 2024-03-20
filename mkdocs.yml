@@ -45,6 +45,7 @@ theme:
     - content.tabs.link
     - content.code.annotatioin
     - content.code.copy
+    - content.tooltips
     - header.autohide
     # - content.footnote.tooltips
     # - content.code.select
