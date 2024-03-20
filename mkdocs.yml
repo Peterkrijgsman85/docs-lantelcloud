@@ -125,6 +125,9 @@ markdown_extensions:
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
+      type: date
+      timezone: Europe/Amsterdam
+      locale: nl
   - search
   - git-committers:
       repository: Peterkrijgsman85/docs-lantelcloud
