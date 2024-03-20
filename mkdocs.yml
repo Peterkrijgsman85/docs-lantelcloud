@@ -59,13 +59,13 @@ theme:
       scheme: default 
       toggle:
         icon: material/weather-night
-        name: Lichte modus
+        name: Donkere modus
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/weather-sunny
-        name: Donkere modus
+        name: Lichte modus
 
 # Additional configuration
 extra:
