@@ -1,4 +1,4 @@
-name: Build MkDocs on Github Pages 
+name: Build MkDocs on Github Pages - Preview
 on:
   push:
     branches:
