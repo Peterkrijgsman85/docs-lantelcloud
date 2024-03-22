@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: master
+  branch: main
   repo: Peterkrijgsman85/docs-lantelcloud
 
 publish_mode: editorial_workflow
