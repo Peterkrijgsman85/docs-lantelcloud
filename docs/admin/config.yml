@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master
-  repo: owner/repo
+  repo: Peterkrijgsman85/docs-lantelcloud
 
 publish_mode: editorial_workflow
 media_folder: static/media
